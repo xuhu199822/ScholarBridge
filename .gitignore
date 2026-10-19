@@ -1,0 +1,16 @@
+/runtime/
+/dist/
+/data/
+/artifacts/
+*.user
+*.partial
+/tools/compiler/
+/vendor/
+/dist-next/
+/release-output/
+/tools/packaging/
+/tools/rime-reference/
+/GitHub上传材料*/
+*.pfx
+*.pem
+*.key
